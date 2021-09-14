@@ -1,0 +1,2 @@
+In Task1,"Implementation_Task.cpp" can be directly compiled and run. The result will be shown on the console.
+In Task2,"Problem_solving.cpp" should be compiled. Before run it, please name the target file as "test.cpp". Then, run the .a file of "Problem_solving.cpp".
